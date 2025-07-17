@@ -1,21 +1,21 @@
-### **Software Engineer Intern**  
-**January 2025 – June 2025 | ByteDance**  
+## **Data Science Competition(Kaggle)**
+- Kaggle LLM Science Exam.(50th/2664)-Sliver Medal
+- Child Mind Institute - Detect Sleep States.(104th/1877)-Bronze Medal
+- Optiver-Trading at the Close.(276th/4436)-Bronze Medal
+- Linking Writing Processing to Writing Quality.(11th/1876)-Gold Medal
+- HMS-Harmful Brain Activity Classification.(23th/2767)-Silver Medal
+- BirdCLEF 2024.(11th/974)-Gold Medal
+- CIBMTR-Equity in post-HCT Survival Predictions.(24th/3325)-Silver Medal
+- BirdCLEF+2 2025.(13th/2025).-Gold Medal
 
-Worked on the development and optimization of large-scale recommendation systems, focusing on algorithm improvements and system efficiency enhancements. Contributed to real-time data processing pipelines and model optimization for personalized content delivery.
+## **Robotics Competition**
+- 2023 China Robot Competition and RoboCup Robot World Cup China Competition-RoboCup Home-Social Standard PlatForm - Third Price
+- 2023 Intelligent Robot Fighting and Gaming Competition - Second Prize.
+- 2023 China Robotics and Artificial Intelligence Competition - Elderly Service Robot Competition - Second Prize
+- 2022 24th China Robot and Artificial Intelligence Competition Jiangsu Division - Elderly Service Robot Competition - First 
+Prize
 
-#### Key Contributions:  
-- Developed and optimized recommendation algorithms to enhance user engagement and content relevance.  
-- Designed and implemented real-time data processing workflows to improve model inference efficiency.  
-- Conducted A/B testing and performance analysis to refine recommendation strategies based on user behavior data.  
-
----
-
-### **软件工程师实习生**  
-**2025年1月 – 2025年6月 | 字节跳动**  
-
-负责大规模推荐系统的开发与优化，专注于算法改进和系统效率提升。参与实时数据处理管道的构建，并优化模型推理流程，以提升个性化内容推荐效果。
-
-#### 主要贡献:  
-- 研发并优化推荐算法，提高用户互动率和内容相关性。  
-- 设计并实现实时数据处理流程，提升模型推理的计算效率。  
-- 进行A/B测试与性能分析，基于用户行为数据优化推荐策略。
+## **Software Copyright Registration Certificate**
+- 2022 Computer Software Copyright Registration Certificate of the National Copyright Administration of the People's Republic of China - Home Reception Service Robot V1.0.
+- 2021 Computer Software Copyright Registration Certificate of the National Copyright Administration of the People's Republic 
+of China - High-efficiency Equipment Planning and Management System.
