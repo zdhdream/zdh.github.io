@@ -1,4 +1,4 @@
-Hello, my name is Zhang Donghui. I am an undergraduate student majoring in Software Engineering at Jinling Institute of Technology.
+Hello, my name is Donghui Zhang. I am an undergraduate student majoring in Software Engineering at Jinling Institute of Technology.
 - Research interests:  Natural Language Processing, Large Language Models, Intelligent agents and Computer Vision.
 - Email: donghuizhangd@outlook.com
 
